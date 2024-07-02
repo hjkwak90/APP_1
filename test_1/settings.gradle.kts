@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "test_1"
 include(":app")
- 
+include(":ch7_layout")
+include(":ch8_layout")
